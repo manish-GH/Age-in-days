@@ -1,0 +1,43 @@
+#container {
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+}
+
+#age {
+    display: flex;
+    justify-content: center;
+}
+
+#flexbox-container {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+#click {
+    background-color: blue;
+    color: white;
+    height: 32px;
+    border-radius: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#reset {
+    background-color: red;
+    color: white;
+    height: 32px;
+    border-radius: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#result {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    
+    justify-content: space-around;
+}
