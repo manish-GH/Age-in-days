@@ -1,4 +1,5 @@
 function ageInDays() {
+    reset();
     let birthYear = prompt('What year were you born?');
     let finalAgeValue = (2020 - birthYear) * 365;
 
